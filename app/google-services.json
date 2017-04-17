@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903705721131",
+    "firebase_url": "https://mangoreceipt.firebaseio.com",
+    "project_id": "mangoreceipt",
+    "storage_bucket": "mangoreceipt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903705721131:android:13c4b4124d1a5e05",
+        "android_client_info": {
+          "package_name": "com.mangoreceipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903705721131-hcsh8n5c0h520gneopskn7660i31saac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mangoreceipt",
+            "certificate_hash": "5b3f9e98bc6e0b3cc51e15c8ab57c90a136ac51f"
+          }
+        },
+        {
+          "client_id": "903705721131-oc3asqfqc5rl3k99lrhphmfvosgugtt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YADsva5GFRY_dFJqfm6JuPhi5tuY-wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903705721131-oc3asqfqc5rl3k99lrhphmfvosgugtt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

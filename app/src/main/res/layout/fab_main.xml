@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.clans.fab.FloatingActionMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fab_menu"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_gravity="bottom|end"
+    android:paddingBottom="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    fab:fab_colorNormal="#DA4336"
+    fab:fab_colorPressed="#E75043"
+    fab:fab_colorRipple="#99FFFFFF"
+    fab:fab_shadowColor="#66000000"
+    fab:fab_showShadow="true"
+    fab:menu_backgroundColor="#00ffffff"
+    fab:menu_fab_label="선택하세요"
+    fab:menu_labels_colorNormal="#333333"
+    fab:menu_labels_colorPressed="#444444"
+    fab:menu_labels_colorRipple="#66FFFFFF"
+    fab:menu_labels_ellipsize="end"
+    fab:menu_labels_maxLines="-1"
+    fab:menu_labels_position="left"
+    fab:menu_labels_showShadow="true"
+    fab:menu_labels_singleLine="true"
+    fab:menu_openDirection="up">
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fab_etc"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/fab_etc"
+        fab:fab_label="기타"
+        fab:fab_size="mini" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fab_marketing"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/fab_marketing"
+        fab:fab_label="마케팅"
+        fab:fab_size="mini" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fab_taxi"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/fab_taxi"
+        fab:fab_label="교통비"
+        fab:fab_size="mini" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fab_food"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/fab_food"
+        fab:fab_label="식비"
+        fab:fab_size="mini" />
+
+</com.github.clans.fab.FloatingActionMenu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MangoReceipt</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="loading">Loading…</string>
+    <string name="sign_in">Google로 로그인</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

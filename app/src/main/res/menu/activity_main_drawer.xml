@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="나의 소비 패턴">
+        <menu>
+            <item
+                android:id="@+id/nav_monthly"
+                android:title=" - 월별 소비패턴" />
+            <item
+                android:id="@+id/nav_category"
+                android:title=" - 카테고리" />
+        </menu>
+    </item>
+
+    <item android:title="문의사항">
+        <menu>
+            <item
+                android:id="@+id/nav_email"
+                android:title=" - Leslie 문의" />
+            <item
+                android:id="@+id/nav_comfirm"
+                android:title=" - 팀장확인" />
+        </menu>
+    </item>
+
+</menu>
